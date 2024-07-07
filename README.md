@@ -1,0 +1,1 @@
+A Simple Extension to help me open multiple links at the same time in new tabs
